@@ -211,6 +211,14 @@ Publish a new release in npm registry:
 
 ## Release notes
 
+### Version 1.25.4 - 31 October 2025
+
+* Update Vidinoti Android SDK to 7.6.3
+
+### Version 1.25.3 - 16 October 2025
+
+* Update Vidinoti Android SDK to 7.6.2
+
 ### Version 1.25.2 - 26 June 2025
 
 * Fix property name error in iOS plugin
